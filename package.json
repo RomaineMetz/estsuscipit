@@ -1,0 +1,16 @@
+{
+  "name": "estsuscipit",
+  "version": "1.0.0",
+  "description": "GitHub-style identicons as PNGs or SVGs in JS.",
+  "main": "identicon.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RomaineMetz/estsuscipit.git"
+  },
+  "keywords": [
+    "atque"
+  ],
+  "author": "RussellTowne",
+  "license": "BSD",
+  "homepage": "https://github.com/RomaineMetz/estsuscipit.git"
+}
